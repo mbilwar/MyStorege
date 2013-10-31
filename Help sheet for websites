@@ -1,0 +1,267 @@
+Frontdesk
+Community driven list of useful things for front end developers. How to contribute?
+
+Browsers bug trackers
+
+Opera
+Mozilla
+Chromium
+Webkit
+Mobile simulators
+
+Opera Mini, Opera Mobile
+iOS Simulator in XCode
+Browsers Dev Builds
+
+Chrome Canary
+Internet Explorer 10
+Opera Next Beta, Opera Next Labs, Opera Next Nightly
+Webkit Nightly
+Firefox Nightly, Firefox Aurora
+Where to download version X of browser Y?
+
+Firefox:
+Official archive
+Bash script
+All Firefox Releases
+Opera:
+Official archive
+Version history
+Safari
+Chromium:
+All builds
+Browsers plugins
+
+Chrome Dev HTTP Client
+Firebug
+Web Developer for Firefox
+Code snippets
+
+Dabblet — interactive playground for quickly testing snippets of CSS and HTML
+JSBin — JavaScript, HTML and CSS playground
+gist.github — code snippets
+JSFiddle — JavaScript, HTML and CSS playground
+CodePen — Another JS, HTML, CSS sandbox
+RegExr — regular expression playground
+Img
+
+PNG compressor
+Tiny png — can make IE6 friendly PNGs
+IMGO — image optimization tool
+SVGO — SVG optimization tool
+JPEG compressor — your photos on a diet
+Smush.it — online image optimization tool
+placehold.it — a quick and simple image placeholder service. By the way placekitten & placeboobs
+lorempixel — placehold random images with dummy text
+SpritePad — Sprite generator
+Favicon generator — draw your favicon
+Grumpicon — tool processes a set of SVG files, generates PNG fallback images for legacy browsers
+JS
+
+XML to JSON
+MicroJS — helps you discover the most compact-but-powerful microframeworks
+JavaScript Beautifier
+JavaScript Patterns Collection
+Learning JavaScript Design Patterns
+JS frameworks
+
+Backbone.js — give your JS App some Backbone with Models, Views, Collections, and Events.
+Knockout — is a JavaScript MVVM library that makes it easier to create rich, desktop-like user interfaces with JavaScript and HTML.
+Knockback.js — provides Knockout.js magic for Backbone.js Models and Collections.
+AngularJS
+Ember.js
+CanJS
+Spine — lightweight MVC library for building JavaScript applications.
+Batman.js — is a framework for building rich single-page browser applications with CoffeeScript or JavaScript.
+Dojo
+Agility.js — is an MVC library for client-side Javascript that lets you write maintainable code without compromising on development speed. It's write less, do more with maintainability.
+Closure Library is a broad, well-tested, modular, and cross-browser JavaScript library.
+Metro JS - plugin for jQuery which enables the Modern UI interface on the web.
+toastr - simple JavaScript toast notifications.
+Testing frameworks
+
+Jasmine
+Mocha
+QUnit
+Buster.js
+YUI Test
+D.O.H.
+wru
+HTML
+
+HTML5 Rocks
+html5please
+mobilehtml5
+DirtyMarkup - Quick/easy HTML auto formatting
+Template engines
+
+Template-Engine-Chooser!
+Handlebars
+ICanHaz.js
+Hogan.js — JavaScript templating from Twitter.
+Jade
+EJS
+JUST
+Closure Templates
+ECT — JavaScript template engine with CoffeeScript syntax
+Dust — Asynchronous templates for the browser and node.js
+TwigJS — A port of PHP template engine to JavaScript
+yate — Yet Another Template Engine
+CSS
+
+Data URL Toolkit, online service
+css3please — The Cross-Browser CSS3 Rule Generator
+The CSS3 Test — check your browser!
+CSScomb — tool for sorting CSS properties in specific order
+Procssor — CSS Beautifier
+Eric Meyer's reset
+normalize.css
+CSS Gradient finder
+CSS Gradient generator
+Sprite Cow — CSS Sprites
+CSS3 Transitions, Transforms and Animation Tutorial
+Easing animation tool
+Cubic-Bezier
+Easings function
+cssdb.co — Popular CSS Libraries
+Helium — JavaScript tool to scan your site and show unused CSS
+Media Query Builder
+The Responsinator — helps to see responsive site will look on the most popular devices
+Stylie — A fun CSS animation tool
+autoprefixer — Parse CSS and add prefixed properties and values by actual Can I Use database
+Patternify — Draw your own Pattern then just copypaste CSS code
+Screensiz.es - Table of characteristics of popular devices.
+DPI Love - Calculation DPI of devices.
+CSS Preprocessors
+
+Less
+CSS to Less
+LESS Elements – a set of useful mixins for the LESS
+lesshat.com – smart LESS mixins
+SASS and SCSS
+CSS to SASS
+Compass
+Compass Ceaser CSS Easing Transitions
+Compass Reference Browser
+sassmeister — playground for Sass
+Bourbon — A simple and lightweight mixin library for Sass. Also, neat.
+Stylus
+nib — library for the Stylus, providing robust cross-browser CSS3 mixins
+xCSS — PHP based CSS preprocessor
+Roole — a language that compiles to CSS
+Rework — arbitrary CSS preprocessing library for node.js and the browser
+CSS frameworks
+
+Twitter bootstrap
+Zurb Foundation
+YUI
+Blueprint CSS
+HTML5 boilerplate — The web’s most popular front-end template
+HTML5 mobile boilerplate — A best practice baseline for your mobile web app
+HTML5 Reset – One more boilerplate
+HTML Email boilerplate
+Initializr — Choose your boilerplate
+960gs — CSS grids system framework
+The Semantic Grid System
+1140 CSS Grid
+Fluid 960 Grid System
+Less Framework
+Skeleton
+inuit.css
+baseline
+Frameless grid
+Kube
+Style guides and methodologies
+
+Github style guide
+Google style guide
+Harry Roberts' CSS Guidelines
+SMACSS — Scalable and Modular Architecture for CSS
+OOCSS — Object oriented CSS
+BEM — Block Element Modificator
+Pragmatic jQuery Style
+Principles of writing consistent, idiomatic CSS and HTML
+Misc
+
+caniuse
+The Toolbox — a collection of the best time-saving apps, tools, and widgets from around the web
+humans.txt
+robots.txt
+Adobe Edge Inspect
+Unicode Emoticons
+Special Characters Easy to Paste
+Entity Conversion Calculator
+ipsum.me
+Schema.org — Most modern microformat documentation supported by Google, Bing, Yandex and Yahoo
+Microformats.org — hcard, hcalendar and etc.
+base64 converter (from url)
+base64 converter (from computer)
+pasteboard.co — image sharing web app
+Color Scheme Designer - find resonate colors for a great design.
+Windows-8-like animations with CSS3 and jQuery - a demo made by Sara Soueidan about creating a Modern UI design like in Windows 8.
+CSS-Tricks snippets — useful code snippets
+Stats
+
+StatCounter
+LiveInternet
+OpenStat
+Performance
+
+YUI JS, CSS compressor
+CSSO — Cleaver CSS optimizer
+YSlow — Cross-browser plugin for page speed and performance testing
+Google page speed — Page speed measurement tools collection from Google
+Web page test — Check page speed from multiple locations around the globe using real browsers
+jsPerf — JavaScript performance playground
+CDN
+
+Google CDN
+Yandex CDN
+Microsoft CDN
+cdnjs — We host it all - JavaScript, CSS, SWF, images, etc
+Manuals
+
+jQuery Docs
+MDN
+CSS, HTML, JavaScript, DOM, jQuery, PHP, Python
+Validators & Quality Tools
+
+W3C HTML Validator
+W3C CSS Validator
+CSSLint — static analysis tool for CSS code
+RECSS — A simple and attractive code quality tool for CSS built on top of LESS
+JSLint — The JavaScript Code Quality Tool by Douglas Crockford
+JSHint — community-driven tool to detect errors and potential problems in JavaScript code
+Fonts
+
+CSSFontStack
+Font Squirrel
+Google WebFonts
+Fontcustom — command line utility to generate fonts from separate svg/eps files
+Fontello — easy way to combine selected icons from popular icons sets into custom made font
+Online Font Converter
+Check font name by screenshot
+CLI Apps
+
+Grunt - Javascript task runner
+Yeoman - Developer workflow
+Bower - Javascript package manager
+OS X Apps
+
+ColorSnapper — easy-to-use tool for quickly finding out the color of any pixel on the screen
+Gitbox — version control as easy as Mail
+LiveReload — "As soon as you save a file, it is preprocessed as needed, and the browser is refreshed..."
+PixFit — measure tool
+xScope — for measuring, inspecting & testing on-screen graphics and layouts
+MAMP PRO — Mac, Apache, MySQL and PHP
+DataURLMaker
+ImageOptim — drag'n'drop UI and various optimisation tools
+ImageAlpha — converts 24-bit PNG to paletted 8-bit with full alpha channel
+BLESS CSS — fighting IE's CSS selectors limit, and nice tool for checking CSS selectors count
+Kaleidoscope — a nice diff tool
+Dash — gives you instant offline access to 80+ API documentation sets.
+Git
+
+GitHowTo
+Pro Git
+Try Git
